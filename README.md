@@ -19,7 +19,7 @@ Determinar y recomendar la ruta óptima que cada paciente debe seguir dentro de 
 
 # Estructura del repositorio
 - **data**  
-    Conjuntos de datos utilizados para el análisis y simulaciones.
+    Conjuntos de datos utilizados para el análisis y simulaciones. Se eliminó dicha carpeta para proteger la privacidad de los datos. 
 
 - **Gráficas**  
     Visualizaciones generadas durante el análisis de datos y validación de modelos.
