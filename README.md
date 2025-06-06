@@ -16,3 +16,19 @@ Diseñar e implementar un sistema de atención que garantice que ningún pacient
 
 ## Ruta óptima 
 Determinar y recomendar la ruta óptima que cada paciente debe seguir dentro de la clínica para minimizar su tiempo total de permanencia, considerando la disponibilidad de servicios y la secuencia de estudios requeridos. La solución debe ser escalable y adaptable a diferentes configuraciones operativas.
+
+# Estructura del repositorio
+data/  
+    Conjuntos de datos utilizados para el análisis y simulaciones.
+
+Gráficas/  
+    Visualizaciones generadas durante el análisis de datos y validación de modelos.
+
+Reportes/  
+    Reportes técnicos y ejecutivos sobre hallazgos relevantes en los datos.
+
+Fila de espera/  
+    Implementación y simulación de la solución para reducir los tiempos de espera, priorizando a grupos vulnerables.
+
+Ruta optima/  
+    Resultados y desarrollo del modelo que recomienda la mejor secuencia de estudios para minimizar el tiempo total de permanencia del paciente. 
