@@ -31,4 +31,7 @@ Determinar y recomendar la ruta óptima que cada paciente debe seguir dentro de 
     Implementación y simulación de la solución para reducir los tiempos de espera, priorizando a grupos vulnerables.
 
 - **Ruta optima**  
-    Resultados y desarrollo del modelo que recomienda la mejor secuencia de estudios para minimizar el tiempo total de permanencia del paciente. 
+    Resultados y desarrollo del modelo que recomienda la mejor secuencia de estudios para minimizar el tiempo total de permanencia del paciente.
+  
+- **Presentaciones**
+    Contiene las presentaciones que se expusieron en cada etapa del proyecto.
