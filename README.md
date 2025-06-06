@@ -1,7 +1,7 @@
 # Reto Salud Digna
 En este repositorio se encuentran todos los códigos necesarios e implementaciones desarrolladas para dar solución a dos problemas actuales que enfrenta Salud Digna. Cada solución ha sido diseñada con base en el análisis de datos reales y se encuentra documentada para facilitar su comprensión, reproducción y futura mejora. El repositorio está organizado de manera que permite acceder fácilmente a los scripts, funciones y resultados asociados a cada problema abordado.\\
 
-Salud Digna es una organización sin fines de lucro que busca proveer servicios de la salud, como pruebas y exámenes médicos, a precios accesibles. Una empresa que tiene presencia en muchos países de Latinoamérica y cuentan con clínicas pequeñas (que tienen el equipo básico), clínicas medianas y clínicas grandes. Su enfoque es proveer servicios de salud a precio accesible y de forma rápida.![image](https://github.com/user-attachments/assets/4a1eed62-48df-4d86-83f2-7ffa4f5b39e9)
+Salud Digna es una organización sin fines de lucro que busca proveer servicios de la salud, como pruebas y exámenes médicos, a precios accesibles. Una empresa que tiene presencia en muchos países de Latinoamérica y cuentan con clínicas pequeñas (que tienen el equipo básico), clínicas medianas y clínicas grandes. Su enfoque es proveer servicios de salud a precio accesible y de forma rápida.
 
 # Problemáticas
 ## Fila de espera
